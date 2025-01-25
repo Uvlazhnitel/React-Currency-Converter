@@ -14,7 +14,7 @@ body {
 }
 
 .converter{
-    width: 500px;
+    width: 600px;
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -30,6 +30,14 @@ body {
     border-radius: 5px;
 }
 
+.converter__input_2 {
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
 .converter-container__title {
     position: absolute;
     top: 90px;
@@ -37,6 +45,22 @@ body {
     transform: translateX(-50%);
     background-color: #fff;
     padding: 0 10px;
+}
+
+.converter__select{
+    padding: 10px;
+    margin-bottom: 10px;
+
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.converter__select_2{
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
 
